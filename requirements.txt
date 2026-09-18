@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+curl_cffi
+requests
